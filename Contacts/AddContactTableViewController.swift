@@ -15,7 +15,10 @@ class AddContactTableViewController: UITableViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        if let contact = contact{
+        if let contact = contact {
+        NameTextField.text = contact.name
+        LastNameTextField.text = contact.lastName
+   
             
         }
         // Uncomment the following line to preserve selection between presentations

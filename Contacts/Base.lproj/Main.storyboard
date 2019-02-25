@@ -93,7 +93,7 @@
                                     </tableViewCell>
                                 </cells>
                             </tableViewSection>
-                            <tableViewSection headerTitle="Last Name" id="CFQ-Qy-iB1">
+                            <tableViewSection headerTitle="LastName" id="CFQ-Qy-iB1">
                                 <cells>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" id="36e-rn-nEq">
                                         <rect key="frame" x="0.0" y="155.5" width="375" height="44"/>
@@ -160,6 +160,6 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="DQK-vv-XSn"/>
+        <segue reference="1fA-lF-1Qy"/>
     </inferredMetricsTieBreakers>
 </document>

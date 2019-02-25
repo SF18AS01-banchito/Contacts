@@ -10,9 +10,9 @@ import UIKit
 
 class ContactsTableViewController: UITableViewController {
     
-    var contacts: [[String]] = [
+    var contacts: [[Contact]] = [
         [
-            
+            //Contact(name: "Esteban", lastName: "Ordonez" ),
         
         ],
         [

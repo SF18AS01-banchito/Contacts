@@ -13,6 +13,7 @@
 		96985E352224711000C6D1D5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96985E332224711000C6D1D5 /* LaunchScreen.storyboard */; };
 		96985E3D2224724A00C6D1D5 /* ContactsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96985E3C2224724A00C6D1D5 /* ContactsTableViewController.swift */; };
 		96985E41222487DB00C6D1D5 /* AddContactTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96985E40222487DB00C6D1D5 /* AddContactTableViewController.swift */; };
+		96985E43222495B800C6D1D5 /* Contact.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96985E42222495B800C6D1D5 /* Contact.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		96985E362224711000C6D1D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		96985E3C2224724A00C6D1D5 /* ContactsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactsTableViewController.swift; sourceTree = "<group>"; };
 		96985E40222487DB00C6D1D5 /* AddContactTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddContactTableViewController.swift; sourceTree = "<group>"; };
+		96985E42222495B800C6D1D5 /* Contact.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Contact.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				96985E2A2224710F00C6D1D5 /* AppDelegate.swift */,
 				96985E3C2224724A00C6D1D5 /* ContactsTableViewController.swift */,
 				96985E2E2224710F00C6D1D5 /* Main.storyboard */,
+				96985E42222495B800C6D1D5 /* Contact.swift */,
 				96985E40222487DB00C6D1D5 /* AddContactTableViewController.swift */,
 				96985E312224711000C6D1D5 /* Assets.xcassets */,
 				96985E332224711000C6D1D5 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				96985E43222495B800C6D1D5 /* Contact.swift in Sources */,
 				96985E3D2224724A00C6D1D5 /* ContactsTableViewController.swift in Sources */,
 				96985E2B2224710F00C6D1D5 /* AppDelegate.swift in Sources */,
 				96985E41222487DB00C6D1D5 /* AddContactTableViewController.swift in Sources */,
